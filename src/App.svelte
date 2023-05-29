@@ -1,6 +1,6 @@
 <script>
   import "./App.css";
-  let api_key = 'b67f8c46de501274bee597afdf87e4e0';
+  let api_key = 'YOUR_API_KEY';
   let url_base = 'https://api.openweathermap.org/data/2.5/';
   let query = '';
   let weather = {};
@@ -45,10 +45,6 @@
 </script>
 
 <style>
-  body {
-    font-family: 'montserrat', sans-serif;
-  }
-
   #app {
     background-image: url('./assets/cold-bg.jpg');
     background-size: cover;
