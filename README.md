@@ -1,7 +1,7 @@
 # Svelte Weather App
 
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![vue](https://img.shields.io/badge/Svelte-FF3E00.svg?logo=Svelte&logoColor=white)
+![svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?logo=Svelte&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node_JS-339933?logo=nodedotjs&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![prettier](https://img.shields.io/badge/Prettier-1A2C34?logo=prettier&logoColor=F7BA3E)
@@ -10,7 +10,7 @@
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white)
 ![terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?logo=windows%20terminal&logoColor=white)
 
-Vue Weather app is used to fetch the weather status for the given city name created using HTML5, TailwindCSS, Vue, Typescript and Open Weather API.
+Svelte Weather app is used to fetch the weather status for the given city name created using HTML5, TailwindCSS, Svelte, Typescript and Open Weather API.
 
 ## Recommended IDE Setup
 
